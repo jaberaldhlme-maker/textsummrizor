@@ -4,4 +4,4 @@ artifacts:
     root_dir: data_ingestion
     source_URL: https://github.com/usercontent.com/mrjabs/textSummarizer/master/data/raw/abcnews-date-text.csv
     local_data_file: abcnews-date.zip
-    unzip_dir:artifacts/ unzip_data
+    unzip_dir:artifacts/ data_ingestion

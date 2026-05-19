@@ -1,4 +1,2 @@
-
-from textSummarizer.logging import logger
-
-logger.info("This is an info message from the main module.")
+fom textsummorizor import logger
+logger.info("This is a log message from the main module.")r
